@@ -10,6 +10,7 @@ Os dados foram coletados no website [VivaReal](https://www.vivareal.com.br/).
 ## Localização e formato do dataset
 O arquivo .csv do dataset se encontra no subdiretório dataset. O formato desse arquivo é constituído por colunas separadas por | (pipe) e com a codificação UTF-8.
 
+<font size="2">
 ## Descrição dos atributos numéricos
 |    | atributo                |   count |           mean |           std |        min |         25% |         50% |         75% |          max |
 |---:|:------------------------|--------:|---------------:|--------------:|-----------:|------------:|------------:|------------:|-------------:|
@@ -50,3 +51,4 @@ O arquivo .csv do dataset se encontra no subdiretório dataset. O formato desse 
 | 34 | varanda                 |    4851 |      0.0999794 |      0.300003 |     0      |      0      |      0      |      0      |    1         |
 | 35 | latitude                |    4851 |    -29.7862    |      2.50891  |   -31.286  |    -30.0807 |    -30.0397 |    -30.0154 |   -5.46843   |
 | 36 | longitude               |    4851 |    -51.0835    |      0.729976 |   -52.0492 |    -51.2109 |    -51.1844 |    -51.1435 |  -44.2155    |
+</font>
